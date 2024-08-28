@@ -1,0 +1,18 @@
+Products API
+
+1.Get All Products -✅
+2.Add Products     -✅
+3.Get One Products -✅
+4.Rate Products    -✅
+5.Filter Products  -✅
+
+
+User API
+1.Signup [Name,Email,Password,Type of User {Customer,User}] -✅
+2.Signin [Email,Password] -✅
+
+Carts API
+1.Add Item to Cart      -✅
+2.Get Item from Cart    -✅
+3.Update Item from Cart -✅
+4.Remove Item from Cart -✅
